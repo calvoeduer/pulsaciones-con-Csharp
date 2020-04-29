@@ -1,0 +1,26 @@
+C:\Users\UNICESAR-401\source\repos\G03\Pulsaciones\PulsacionesUI\PulsacionesUI\obj\Debug\PulsacionesUI.csprojAssemblyReference.cache
+C:\Users\UNICESAR-401\source\repos\G03\Pulsaciones\PulsacionesUI\PulsacionesUI\obj\Debug\PulsacionesUI.csproj.CoreCompileInputs.cache
+C:\Users\UNICESAR-401\source\repos\G03\Pulsaciones\PulsacionesUI\PulsacionesUI\bin\Debug\PulsacionesUI.exe.config
+C:\Users\UNICESAR-401\source\repos\G03\Pulsaciones\PulsacionesUI\PulsacionesUI\bin\Debug\PulsacionesUI.exe
+C:\Users\UNICESAR-401\source\repos\G03\Pulsaciones\PulsacionesUI\PulsacionesUI\bin\Debug\PulsacionesUI.pdb
+C:\Users\UNICESAR-401\source\repos\G03\Pulsaciones\PulsacionesUI\PulsacionesUI\bin\Debug\BLL.dll
+C:\Users\UNICESAR-401\source\repos\G03\Pulsaciones\PulsacionesUI\PulsacionesUI\bin\Debug\Entity.dll
+C:\Users\UNICESAR-401\source\repos\G03\Pulsaciones\PulsacionesUI\PulsacionesUI\bin\Debug\BLL.pdb
+C:\Users\UNICESAR-401\source\repos\G03\Pulsaciones\PulsacionesUI\PulsacionesUI\bin\Debug\Entity.pdb
+C:\Users\UNICESAR-401\source\repos\G03\Pulsaciones\PulsacionesUI\PulsacionesUI\obj\Debug\PulsacionesUI.csproj.CopyComplete
+C:\Users\UNICESAR-401\source\repos\G03\Pulsaciones\PulsacionesUI\PulsacionesUI\obj\Debug\PulsacionesUI.exe
+C:\Users\UNICESAR-401\source\repos\G03\Pulsaciones\PulsacionesUI\PulsacionesUI\obj\Debug\PulsacionesUI.pdb
+D:\UNIVERSIDAD\CUARTO SEMESTRE\PROGRAMACION 3\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI\PulsacionesUI\bin\Debug\PulsacionesUI.exe.config
+D:\UNIVERSIDAD\CUARTO SEMESTRE\PROGRAMACION 3\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI\PulsacionesUI\bin\Debug\PulsacionesUI.exe
+D:\UNIVERSIDAD\CUARTO SEMESTRE\PROGRAMACION 3\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI\PulsacionesUI\bin\Debug\PulsacionesUI.pdb
+D:\UNIVERSIDAD\CUARTO SEMESTRE\PROGRAMACION 3\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI\PulsacionesUI\bin\Debug\BLL.dll
+D:\UNIVERSIDAD\CUARTO SEMESTRE\PROGRAMACION 3\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI\PulsacionesUI\bin\Debug\Entity.dll
+D:\UNIVERSIDAD\CUARTO SEMESTRE\PROGRAMACION 3\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI\PulsacionesUI\bin\Debug\DAL.dll
+D:\UNIVERSIDAD\CUARTO SEMESTRE\PROGRAMACION 3\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI\PulsacionesUI\bin\Debug\BLL.pdb
+D:\UNIVERSIDAD\CUARTO SEMESTRE\PROGRAMACION 3\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI\PulsacionesUI\bin\Debug\Entity.pdb
+D:\UNIVERSIDAD\CUARTO SEMESTRE\PROGRAMACION 3\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI\PulsacionesUI\bin\Debug\DAL.pdb
+D:\UNIVERSIDAD\CUARTO SEMESTRE\PROGRAMACION 3\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI\PulsacionesUI\obj\Debug\PulsacionesUI.csprojAssemblyReference.cache
+D:\UNIVERSIDAD\CUARTO SEMESTRE\PROGRAMACION 3\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI\PulsacionesUI\obj\Debug\PulsacionesUI.csproj.CoreCompileInputs.cache
+D:\UNIVERSIDAD\CUARTO SEMESTRE\PROGRAMACION 3\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI\PulsacionesUI\obj\Debug\PulsacionesUI.csproj.CopyComplete
+D:\UNIVERSIDAD\CUARTO SEMESTRE\PROGRAMACION 3\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI\PulsacionesUI\obj\Debug\PulsacionesUI.exe
+D:\UNIVERSIDAD\CUARTO SEMESTRE\PROGRAMACION 3\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI\PulsacionesUI\obj\Debug\PulsacionesUI.pdb

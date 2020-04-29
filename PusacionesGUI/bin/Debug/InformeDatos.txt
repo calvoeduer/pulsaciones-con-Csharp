@@ -1,0 +1,1 @@
+TotalPersonas: 3;TotalMujeres: 0;TotalHombres: 3;SumaTotalPulsaciones: 58;PulsacionesHombres: 58;PulsacionesMujeres: 0

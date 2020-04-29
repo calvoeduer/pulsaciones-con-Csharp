@@ -1,0 +1,94 @@
+D:\UNIVERSIDAD\Cuarto semestre\Programacion 3\SEGUNDOCORTE\PusacionesGUI\bin\Debug\PusacionesGUI.exe.config
+D:\UNIVERSIDAD\Cuarto semestre\Programacion 3\SEGUNDOCORTE\PusacionesGUI\bin\Debug\PusacionesGUI.exe
+D:\UNIVERSIDAD\Cuarto semestre\Programacion 3\SEGUNDOCORTE\PusacionesGUI\bin\Debug\PusacionesGUI.pdb
+D:\UNIVERSIDAD\Cuarto semestre\Programacion 3\SEGUNDOCORTE\PusacionesGUI\bin\Debug\BLL.dll
+D:\UNIVERSIDAD\Cuarto semestre\Programacion 3\SEGUNDOCORTE\PusacionesGUI\bin\Debug\Entity.dll
+D:\UNIVERSIDAD\Cuarto semestre\Programacion 3\SEGUNDOCORTE\PusacionesGUI\bin\Debug\DAL.dll
+D:\UNIVERSIDAD\Cuarto semestre\Programacion 3\SEGUNDOCORTE\PusacionesGUI\bin\Debug\BLL.pdb
+D:\UNIVERSIDAD\Cuarto semestre\Programacion 3\SEGUNDOCORTE\PusacionesGUI\bin\Debug\Entity.pdb
+D:\UNIVERSIDAD\Cuarto semestre\Programacion 3\SEGUNDOCORTE\PusacionesGUI\bin\Debug\DAL.pdb
+D:\UNIVERSIDAD\Cuarto semestre\Programacion 3\SEGUNDOCORTE\PusacionesGUI\obj\Debug\PusacionesGUI.csprojAssemblyReference.cache
+D:\UNIVERSIDAD\Cuarto semestre\Programacion 3\SEGUNDOCORTE\PusacionesGUI\obj\Debug\PusacionesGUI.FrmPrincipal.resources
+D:\UNIVERSIDAD\Cuarto semestre\Programacion 3\SEGUNDOCORTE\PusacionesGUI\obj\Debug\PusacionesGUI.Properties.Resources.resources
+D:\UNIVERSIDAD\Cuarto semestre\Programacion 3\SEGUNDOCORTE\PusacionesGUI\obj\Debug\PusacionesGUI.csproj.GenerateResource.cache
+D:\UNIVERSIDAD\Cuarto semestre\Programacion 3\SEGUNDOCORTE\PusacionesGUI\obj\Debug\PusacionesGUI.csproj.CoreCompileInputs.cache
+D:\UNIVERSIDAD\Cuarto semestre\Programacion 3\SEGUNDOCORTE\PusacionesGUI\obj\Debug\PusacionesGUI.csproj.CopyComplete
+D:\UNIVERSIDAD\Cuarto semestre\Programacion 3\SEGUNDOCORTE\PusacionesGUI\obj\Debug\PusacionesGUI.exe
+D:\UNIVERSIDAD\Cuarto semestre\Programacion 3\SEGUNDOCORTE\PusacionesGUI\obj\Debug\PusacionesGUI.pdb
+D:\UNIVERSIDAD\Cuarto semestre\Programacion 3\SEGUNDOCORTE\PusacionesGUI\obj\Debug\PusacionesGUI.FrmPersona.resources
+D:\Universidad\Cuarto semestre\Programacion 3\SEGUNDOCORTE\PusacionesGUI\obj\Debug\PusacionesGUI.FrmConsultarTodo.resources
+D:\Universidad\Cuarto semestre\Programacion 3\EDUER\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI\PusacionesGUI\bin\Debug\PusacionesGUI.exe.config
+D:\Universidad\Cuarto semestre\Programacion 3\EDUER\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI\PusacionesGUI\bin\Debug\PusacionesGUI.exe
+D:\Universidad\Cuarto semestre\Programacion 3\EDUER\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI\PusacionesGUI\bin\Debug\PusacionesGUI.pdb
+D:\Universidad\Cuarto semestre\Programacion 3\EDUER\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI\PusacionesGUI\bin\Debug\BLL.dll
+D:\Universidad\Cuarto semestre\Programacion 3\EDUER\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI\PusacionesGUI\bin\Debug\Entity.dll
+D:\Universidad\Cuarto semestre\Programacion 3\EDUER\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI\PusacionesGUI\bin\Debug\MetroFramework.Design.dll
+D:\Universidad\Cuarto semestre\Programacion 3\EDUER\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI\PusacionesGUI\bin\Debug\MetroFramework.dll
+D:\Universidad\Cuarto semestre\Programacion 3\EDUER\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI\PusacionesGUI\bin\Debug\MetroFramework.Fonts.dll
+D:\Universidad\Cuarto semestre\Programacion 3\EDUER\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI\PusacionesGUI\bin\Debug\DAL.dll
+D:\Universidad\Cuarto semestre\Programacion 3\EDUER\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI\PusacionesGUI\bin\Debug\BLL.pdb
+D:\Universidad\Cuarto semestre\Programacion 3\EDUER\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI\PusacionesGUI\bin\Debug\Entity.pdb
+D:\Universidad\Cuarto semestre\Programacion 3\EDUER\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI\PusacionesGUI\bin\Debug\DAL.pdb
+D:\Universidad\Cuarto semestre\Programacion 3\EDUER\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI\PusacionesGUI\obj\Debug\PusacionesGUI.csprojAssemblyReference.cache
+D:\Universidad\Cuarto semestre\Programacion 3\EDUER\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI\PusacionesGUI\obj\Debug\PusacionesGUI.FrmConsultarTodo.resources
+D:\Universidad\Cuarto semestre\Programacion 3\EDUER\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI\PusacionesGUI\obj\Debug\PusacionesGUI.FrmPersona.resources
+D:\Universidad\Cuarto semestre\Programacion 3\EDUER\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI\PusacionesGUI\obj\Debug\PusacionesGUI.FrmPrincipal.resources
+D:\Universidad\Cuarto semestre\Programacion 3\EDUER\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI\PusacionesGUI\obj\Debug\PusacionesGUI.Properties.Resources.resources
+D:\Universidad\Cuarto semestre\Programacion 3\EDUER\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI\PusacionesGUI\obj\Debug\PusacionesGUI.csproj.GenerateResource.cache
+D:\Universidad\Cuarto semestre\Programacion 3\EDUER\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI\PusacionesGUI\obj\Debug\PusacionesGUI.csproj.CopyComplete
+D:\Universidad\Cuarto semestre\Programacion 3\EDUER\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI\PusacionesGUI\obj\Debug\PusacionesGUI.exe
+D:\Universidad\Cuarto semestre\Programacion 3\EDUER\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI\PusacionesGUI\obj\Debug\PusacionesGUI.pdb
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\EDUER\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI\PusacionesGUI\bin\Debug\PusacionesGUI.exe.config
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\EDUER\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI\PusacionesGUI\bin\Debug\PusacionesGUI.exe
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\EDUER\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI\PusacionesGUI\bin\Debug\PusacionesGUI.pdb
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\EDUER\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI\PusacionesGUI\bin\Debug\BLL.dll
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\EDUER\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI\PusacionesGUI\bin\Debug\Entity.dll
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\EDUER\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI\PusacionesGUI\bin\Debug\MetroFramework.Design.dll
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\EDUER\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI\PusacionesGUI\bin\Debug\MetroFramework.dll
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\EDUER\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI\PusacionesGUI\bin\Debug\MetroFramework.Fonts.dll
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\EDUER\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI\PusacionesGUI\bin\Debug\DAL.dll
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\EDUER\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI\PusacionesGUI\bin\Debug\BLL.pdb
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\EDUER\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI\PusacionesGUI\bin\Debug\Entity.pdb
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\EDUER\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI\PusacionesGUI\bin\Debug\DAL.pdb
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\EDUER\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI\PusacionesGUI\obj\Debug\PusacionesGUI.csprojAssemblyReference.cache
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\EDUER\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI\PusacionesGUI\obj\Debug\PusacionesGUI.FrmConsultarTodo.resources
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\EDUER\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI\PusacionesGUI\obj\Debug\PusacionesGUI.FrmPersona.resources
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\EDUER\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI\PusacionesGUI\obj\Debug\PusacionesGUI.FrmPrincipal.resources
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\EDUER\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI\PusacionesGUI\obj\Debug\PusacionesGUI.Properties.Resources.resources
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\EDUER\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI\PusacionesGUI\obj\Debug\PusacionesGUI.csproj.GenerateResource.cache
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\EDUER\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI\PusacionesGUI\obj\Debug\PusacionesGUI.csproj.CopyComplete
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\EDUER\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI\PusacionesGUI\obj\Debug\PusacionesGUI.exe
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\EDUER\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI\PusacionesGUI\obj\Debug\PusacionesGUI.pdb
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\EDUER\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI\PusacionesGUI\bin\Debug\Infraestructura.dll
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\EDUER\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI\PusacionesGUI\bin\Debug\Infraestructura.pdb
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\EDUER\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI\PusacionesGUI\bin\Debug\itextsharp.dll
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\EDUER\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI\PusacionesGUI\bin\Debug\itextsharp.xml
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\EDUER\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI\PusacionesGUI\bin\Debug\DBpulsaciones.mdf
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\EDUER\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI\PusacionesGUI\bin\Debug\DBpulsaciones_log.ldf
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\EDUER\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI - copia\PusacionesGUI\bin\Debug\DBpulsaciones.mdf
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\EDUER\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI - copia\PusacionesGUI\bin\Debug\DBpulsaciones_log.ldf
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\EDUER\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI - copia\PusacionesGUI\bin\Debug\BLL.dll
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\EDUER\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI - copia\PusacionesGUI\bin\Debug\Entity.dll
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\EDUER\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI - copia\PusacionesGUI\bin\Debug\Infraestructura.dll
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\EDUER\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI - copia\PusacionesGUI\bin\Debug\MetroFramework.Design.dll
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\EDUER\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI - copia\PusacionesGUI\bin\Debug\MetroFramework.dll
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\EDUER\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI - copia\PusacionesGUI\bin\Debug\MetroFramework.Fonts.dll
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\EDUER\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI - copia\PusacionesGUI\bin\Debug\DAL.dll
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\EDUER\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI - copia\PusacionesGUI\bin\Debug\itextsharp.dll
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\EDUER\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI - copia\PusacionesGUI\bin\Debug\BLL.pdb
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\EDUER\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI - copia\PusacionesGUI\bin\Debug\Entity.pdb
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\EDUER\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI - copia\PusacionesGUI\bin\Debug\Infraestructura.pdb
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\EDUER\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI - copia\PusacionesGUI\bin\Debug\DAL.pdb
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\EDUER\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI - copia\PusacionesGUI\bin\Debug\itextsharp.xml
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\EDUER\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI - copia\PusacionesGUI\obj\Debug\PusacionesGUI.csprojAssemblyReference.cache
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\EDUER\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI - copia\PusacionesGUI\obj\Debug\PusacionesGUI.FrmConsultarTodo.resources
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\EDUER\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI - copia\PusacionesGUI\obj\Debug\PusacionesGUI.FrmPersona.resources
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\EDUER\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI - copia\PusacionesGUI\obj\Debug\PusacionesGUI.FrmPrincipal.resources
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\EDUER\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI - copia\PusacionesGUI\obj\Debug\PusacionesGUI.Properties.Resources.resources
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\EDUER\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI - copia\PusacionesGUI\obj\Debug\PusacionesGUI.csproj.GenerateResource.cache
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\EDUER\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI - copia\PusacionesGUI\obj\Debug\PusacionesGUI.csproj.CopyComplete
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\EDUER\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI - copia\PusacionesGUI\obj\Debug\PusacionesGUI.exe
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\EDUER\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI - copia\PusacionesGUI\obj\Debug\PusacionesGUI.pdb
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\EDUER\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI - copia\PusacionesGUI\bin\Debug\PusacionesGUI.exe.config
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\EDUER\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI - copia\PusacionesGUI\bin\Debug\PusacionesGUI.exe
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\EDUER\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI - copia\PusacionesGUI\bin\Debug\PusacionesGUI.pdb

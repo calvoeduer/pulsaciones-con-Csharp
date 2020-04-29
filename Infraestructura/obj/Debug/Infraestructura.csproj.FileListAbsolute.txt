@@ -1,0 +1,20 @@
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\EDUER\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI\Infraestructura\bin\Debug\Infraestructura.dll
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\EDUER\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI\Infraestructura\bin\Debug\Infraestructura.pdb
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\EDUER\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI\Infraestructura\bin\Debug\Entity.dll
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\EDUER\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI\Infraestructura\bin\Debug\Entity.pdb
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\EDUER\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI\Infraestructura\obj\Debug\Infraestructura.csprojAssemblyReference.cache
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\EDUER\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI\Infraestructura\obj\Debug\Infraestructura.csproj.CopyComplete
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\EDUER\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI\Infraestructura\obj\Debug\Infraestructura.dll
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\EDUER\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI\Infraestructura\obj\Debug\Infraestructura.pdb
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\EDUER\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI\Infraestructura\bin\Debug\itextsharp.dll
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\EDUER\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI\Infraestructura\bin\Debug\itextsharp.xml
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\EDUER\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI - copia\Infraestructura\bin\Debug\Infraestructura.dll
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\EDUER\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI - copia\Infraestructura\bin\Debug\Infraestructura.pdb
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\EDUER\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI - copia\Infraestructura\bin\Debug\Entity.dll
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\EDUER\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI - copia\Infraestructura\bin\Debug\itextsharp.dll
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\EDUER\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI - copia\Infraestructura\bin\Debug\Entity.pdb
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\EDUER\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI - copia\Infraestructura\bin\Debug\itextsharp.xml
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\EDUER\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI - copia\Infraestructura\obj\Debug\Infraestructura.csprojAssemblyReference.cache
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\EDUER\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI - copia\Infraestructura\obj\Debug\Infraestructura.csproj.CopyComplete
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\EDUER\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI - copia\Infraestructura\obj\Debug\Infraestructura.dll
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\EDUER\ARCHIVOS PROFE\G03\Pulsaciones\PulsacionesUI - copia\Infraestructura\obj\Debug\Infraestructura.pdb
